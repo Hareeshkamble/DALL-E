@@ -1,1 +1,1 @@
-# dall-e
+# dalle-clone
